@@ -95,8 +95,6 @@ DATABASES = {
         'PASSWORD': '*****',
         'PORT': 3306
     }
-    # 数据库命令行登录
-# mysql -htreeswave.mysql.zhangbei.rds.aliyuncs.com -P3306 -umricer -pmricer#321 -Dmrice
 }
 
 # django认证系统使用的模型类
