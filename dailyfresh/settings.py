@@ -87,22 +87,12 @@ DATABASES = {
     #     'PORT': 3306,
     # }
 
-    # 'default': {
-    #     # 'ENGINE': 'django.db.backends.sqlite3',
-    #     # 'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-    #     'ENGINE': 'django.db.backends.mysql',
-    #     'NAME': 'mrice',
-    #     'HOST': '121.42.155.123',
-    #     'USER': 'mrice',
-    #     'PASSWORD': 'E80Lqt7Y',
-    #     'PORT': 3306
-
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'mrice',
-        'HOST': 'treeswave.mysql.zhangbei.rds.aliyuncs.com',
-        'USER': 'mricer',
-        'PASSWORD': 'mricer#321',
+        'HOST': '******',
+        'USER': '*****',
+        'PASSWORD': '*****',
         'PORT': 3306
     }
     # 数据库命令行登录
