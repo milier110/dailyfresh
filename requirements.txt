@@ -13,7 +13,7 @@ cffi==1.12.2
 click==6.6
 configparser==3.5.0
 constantly==15.1.0
-cryptography==2.6.1
+cryptography==3.2
 decorator==4.1.2
 Django==3.0.7
 enum34==1.1.6
