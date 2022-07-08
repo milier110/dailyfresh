@@ -90,7 +90,7 @@ scipy==0.13.0b1
 selenium==3.4.3
 simplegeneric==0.8.1
 six==1.10.0
-suds==0.4
+suds==1.0.0
 traitlets==4.3.2
 turtle==0.0.2
 Twisted==17.5.0
