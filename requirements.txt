@@ -93,7 +93,7 @@ six==1.10.0
 suds==0.4
 traitlets==4.3.2
 turtle==0.0.2
-Twisted==17.5.0
+Twisted==22.10.0
 vboxapi==1.0
 wcwidth==0.1.7
 web.py==0.38
