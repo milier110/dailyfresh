@@ -97,7 +97,7 @@ Twisted==17.5.0
 vboxapi==1.0
 wcwidth==0.1.7
 web.py==0.38
-Werkzeug==0.11.11
+Werkzeug==0.15.5
 wxPython==3.0.2.0
 wxPython-common==3.0.2.0
 xattr==0.6.4
